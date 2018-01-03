@@ -1,5 +1,6 @@
----
-layout: default
-title:  "网页设计笔记"
-categories: mood
----
+
+<div class="tiles">
+{% for post in site.categories.portfolio %}
+  {% include post-grid.html %}
+{% endfor %}
+</div>
