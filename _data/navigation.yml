@@ -3,16 +3,18 @@
 - title: 网页设计作品集
   url: /portfolio/ 
   excerpt: "网页设计的个人作品集"
+  image: sound.jpg
   
 
 - title: 信息可视化作品集
   url: /infovis/ 
   excerpt: "信息可视化的个人作品集"
+  image: 微信.jpg
   
- - title: 网页设计笔记
-  url: /mood/ 
+- title: 网页设计笔记
+  url: /posts/rwd/
   excerpt: "网页设计的笔记"
   
- - title: 可视化笔记
-  url: /keview/ 
+- title: 可视化笔记
+  url: /posts/infovis/ 
   excerpt: "可视化的笔记"
