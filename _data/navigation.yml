@@ -3,20 +3,20 @@
 - title: 网页设计作品集
   url: /portfolio/ 
   excerpt: "网页设计的个人作品集"
-  image: 猫咪1.png
+  image: "猫咪1.png"
   
 
 - title: 信息可视化作品集
   url: /infovis/ 
   excerpt: "信息可视化的个人作品集"
-  image: 猫咪2.png
+  image: "猫咪2.png"
   
 - title: 网页设计笔记
   url: /posts/rwd/
   excerpt: "网页设计的笔记"
-  image: 猫咪3.png
+  image: "猫咪3.png"
   
 - title: 可视化笔记
   url: /posts/infovis/ 
   excerpt: "可视化的笔记"
-  image: 猫咪4.png
+  image: "猫咪4.png"
