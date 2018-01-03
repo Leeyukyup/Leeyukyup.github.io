@@ -3,7 +3,7 @@
 title: "李玉叶的个人网站"
 description: "加加加油！"
 logo: # 个人的logo120x120 px default image used for Twitter summary card
-teaser: # 400x250 px default teaser image used in image archive grid
+teaser: "/images/gg女孩.jpg"
 locale: zh_CN # 本地化翻譯
 url: "https://leeyukyup.github.io"
 feed:
