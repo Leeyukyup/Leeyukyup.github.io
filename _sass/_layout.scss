@@ -271,8 +271,15 @@
 .page-feature {
 	@include fill-parent;
 	// expand image to cover full width of header
-	img {
-		width: 100%;
+	img {		 		
+        width: auto;
+ 		max-width: 100%;
+  		@include media($medium) {		  		
+            max-width: 50%;
+  		}
+		@include media($large) {
+ -			max-width: 33%;
+  		}
 	}
 }
 // make image flush with edges on small screens
@@ -280,6 +287,15 @@
 	position: relative;
 	margin-left: -1 * $gutter;
 	margin-right: -1 * $gutter;
+	    @include media($medium) {
+		    margin-left: 0;
+			margin-right: 0;
+		}
+		@include media($large) {
+		    margin-left: 0;
+			margin-right: 0;
+		}
+	
 	// feature image caption
 	.image-credit {
 		position: absolute;
