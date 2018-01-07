@@ -379,10 +379,14 @@
 }
 
 @media print {
-    #masthead, nav, button, html [type=button], .menu-print {
+    #masthead, nav, button, html [type=button], .menu-screen {
         display: none;
     }
-    header, footer, html, body {
+	.beforeHeader, 
+    .afterFooter {
+        display: block;
+    }
+    html, body {
         width: 210mm;
         height: 297mm;
         margin: 0;
