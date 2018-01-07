@@ -24,8 +24,8 @@ $border-radius               	: 3px;
 $white                        : #fff;
 $black                        : #000;
 $pink                         : #FFD4D4;
-$lowpink                      : #FFEAD4;
-$highpink                     : #FFBBBB;
+$lowyellow                    : #FFE6CC;
+$lowbule                      : #CCCCFF;
 
 $body-color                  	: #ebebeb;
 
@@ -83,10 +83,10 @@ $form-font-size              	: $doc-font-size;
    Sliding menu navigation variables
    ========================================================================== */
 
-$sliding-menu-border-color	 	 : $black;
-$sliding-menu-background 		   : $black;
+$sliding-menu-border-color	 	 : $lowbule;
+$sliding-menu-background 		   : $lowbule;
 $sliding-menu-color 	 		     : $white;
-$sliding-menu-background-hover : $black;
+$sliding-menu-background-hover : $lowbule;
 $sliding-menu-color-hover	 	   : $white;
 $sliding-menu-border   			   : 1px solid $sliding-menu-border-color;
 $button-size		         	     : 30px;

@@ -3,20 +3,20 @@
 - title: 网页设计作品集
   url: /portfolio/ 
   excerpt: "A collection of personal works on Web Design"
-  image: one.png
+  image: catone.png
   
 
 - title: 信息可视化作品集
   url: /infovis/ 
   excerpt: "Information visualization works"
-  image: two.png
+  image: cattwo.png
   
 - title: 网页设计笔记
   url: /posts/rwd/
   excerpt: "Page design notes"
-  image: three.png
+  image: catthree.png
   
 - title: 可视化笔记
   url: /posts/infovis/ 
   excerpt: "Visual notes"
-  image: four.png
+  image: catfour.png

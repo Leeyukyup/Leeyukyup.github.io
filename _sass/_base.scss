@@ -10,7 +10,7 @@ body {
 	font-family: $base-font;
 	color: $text-color;
 	 background-image:
-       linear-gradient(rgba(255, 212, 212, 0.9), rgba(255, 212, 212, 0.7)), 
+       linear-gradient(rgba(255, 204, 204, 0.9), rgba(255, 204, 204, 0.7)), 
        url('https://leeyukyup.github.io/images/pink.jpg');
 	@include font-size(16);
 }
